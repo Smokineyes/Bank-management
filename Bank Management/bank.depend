@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1682171807 source:c:\users\allen\documents\codes\assignment 2\bank\bank.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<iomanip>
+
+1682624801 source:c:\users\allen\documents\codes\assignment 2\bank\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<string.h>
+	<stdio.h>
+
+1695221334 source:c:\users\allen\documents\codes\assignment 2 group 9\bank management\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<string.h>
+
